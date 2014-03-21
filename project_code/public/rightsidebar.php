@@ -1,0 +1,1 @@
+<img id="rightadimage" src=<?php echo '"http://'.$_SERVER['HTTP_HOST'].'/~unn_w12038150/images/rightsidebar/ad200.png"' ?> style="width:190px"/>

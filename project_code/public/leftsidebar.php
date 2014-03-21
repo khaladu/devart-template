@@ -1,0 +1,1 @@
+<img id="leftadimage" src=<?php echo '"http://'.$_SERVER['HTTP_HOST'].'/~unn_w12038150/images/leftsidebar/ad100.png"' ?>/>
